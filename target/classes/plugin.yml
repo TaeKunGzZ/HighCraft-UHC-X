@@ -1,0 +1,19 @@
+#file: noinspection YAMLSchemaValidation
+name: highCraft
+version: '1.0-SNAPSHOT'
+main: org.taekungz.highcraft.HighCraft
+api-version: '1.16'
+commands:
+  timer:
+
+  sb:
+
+  start:
+
+  killstreak:
+
+  allkillcounts:
+
+  lobby:
+
+    description: Custom Commands
